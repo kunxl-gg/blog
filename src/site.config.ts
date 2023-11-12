@@ -6,7 +6,7 @@ export const siteConfig: SiteConfig = {
 	// Meta property used to construct the meta title property, found in src/components/BaseHead.astro L:11
 	title: "My Presence on the Inter Web",
 	// Meta property used as the default description meta property
-	description: "A weekly journal of all the things I try to get my hands on.",
+	description: "A weekly journal about my life, projects and everything in between",
 	// HTML lang property, found in src/layouts/Base.astro L:18
 	lang: "en-GB",
 	// Meta property, found in src/components/BaseHead.astro L:42
